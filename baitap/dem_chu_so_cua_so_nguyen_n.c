@@ -11,6 +11,5 @@ int main()
         n=n/10;
     }
     printf("dem=%d",d);
-    printf("Hello world");
     return 0;
 }
